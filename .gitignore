@@ -1,0 +1,7 @@
+subgame.log
+server/*
+!server/subbill.ini
+!server/server.ini
+!server/server.cfg
+!server/news.txt
+!server/_bzw.lvl
